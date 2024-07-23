@@ -430,8 +430,9 @@ a {
   }
 
   .container {
-    max-height: 100%;
-    height: 190vh;
+    height: 100%;
+    height: 950px;
+  }
 }
 
 @media (max-width: 363px) {
